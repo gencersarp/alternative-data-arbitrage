@@ -1,0 +1,8 @@
+# Build artifacts
+build/
+
+# Local data files (optional, but good practice if they are large)
+/data/
+
+# macOS specific files
+.DS_Store
