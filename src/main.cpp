@@ -157,7 +157,7 @@ Signal getSignalForDate(const json& sentiment_data, const std::string& date, con
 // --- Main Application Logic ---
 
 int main() {
-    std::string apiKey = "8RY6I6JKPEUKI7R5";
+    std::string apiKey = "YourAPIKey";
     std::string ticker = "IBM"; // Using IBM as it has more news diversity
     
     std::cout << "Fetching data for ticker: " << ticker << std::endl;
